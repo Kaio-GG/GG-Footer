@@ -1,0 +1,30 @@
+{
+  "name": "gg-footer",
+  "version": "1.0.7",
+  "description": "Um Footer simples pronto para uso em projetos React.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && cp -r src/styles dist/styles"
+  },
+  "keywords": [
+    "footer",
+    "react",
+    "component"
+  ],
+  "author": "Kaio",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=18",
+    "react-dom": ">=18"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.7",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^5.9.3"
+  }
+}

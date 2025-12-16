@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "jsx": "react-jsx",
+    "moduleResolution": "node10",
+    "module": "ESNext",
+    "target": "ES2018",
+    "skipLibCheck": true
+  },
+  "include": ["src"]
+}
