@@ -8,17 +8,15 @@ interface GGFooterProps {
   linkedin: string;
 }
 
-export function GGFooter({
-  nome,
-  whatsapp,
-  github,
-  gmail,
-  linkedin
-}: GGFooterProps) {
+export function GGFooter({nome,whatsapp,github,gmail,linkedin}: GGFooterProps) {
+
+  const ano = new Date().getFullYear();
+  
+
   return (
      <main className="footer">
       
-    <div className="signature">Created by {nome}</div>
+    <div className="signature">© {ano} Created by {nome}</div>
       <div className="cp-icones">
         <ul className="example-2">
           <li className="icon-content">

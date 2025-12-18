@@ -36,3 +36,9 @@ export default App;
 | gmail      | string | Email (mailto) |
 | linkedin   | string | Perfil LinkedIn |
 
+
+## Demo
+
+![alt text](hover.gif)
+
+
