@@ -1,6 +1,6 @@
 {
   "name": "gg-footer",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Um Footer simples pronto para uso em projetos React.",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -30,8 +30,8 @@
     "typescript": "^5.9.3"
   },
   "repository": {
-  "type": "git",
-  "url": "https://github.com/Kaio-GG/GG-Footer.git"
+    "type": "git",
+    "url": "https://github.com/Kaio-GG/GG-Footer.git"
   },
   "bugs": {
     "url": "https://github.com/Kaio-GG/GG-Footer/issues"
