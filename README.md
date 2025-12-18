@@ -9,6 +9,8 @@ npm install gg-footer
  
 ## Uso
 
+
+```
 import GGFooter from "gg-footer";
 
 function App() {
@@ -24,8 +26,8 @@ function App() {
   );
 }
 
-export default App;
-
+expexport default App
+```
 ## Props
 
 | Prop       | Tipo   | Descrição |
@@ -37,16 +39,6 @@ export default App;
 | linkedin   | string | Perfil LinkedIn |
 
 
-## Demo
+## ## Demo
 
 ![alt text](hover.gif)
-
-![alt text](<Captura de Tela 2025-12-18 às 11.31.25.png>)
-
-![alt text](<Captura de Tela 2025-12-18 às 11.31.33.png>)
-
-![alt text](<Captura de Tela 2025-12-18 às 11.37.47.png>)
-
-![alt text](<Captura de Tela 2025-12-18 às 11.37.52.png>)
-
-![alt text](<Captura de Tela 2025-12-18 às 11.37.56.png>)
