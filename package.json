@@ -1,6 +1,6 @@
 {
   "name": "gg-footer",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Um Footer simples pronto para uso em projetos React.",
   "main": "dist/index.js",
   "module": "dist/index.js",
