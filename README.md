@@ -41,4 +41,12 @@ export default App;
 
 ![alt text](hover.gif)
 
+![alt text](<Captura de Tela 2025-12-18 às 11.31.25.png>)
 
+![alt text](<Captura de Tela 2025-12-18 às 11.31.33.png>)
+
+![alt text](<Captura de Tela 2025-12-18 às 11.37.47.png>)
+
+![alt text](<Captura de Tela 2025-12-18 às 11.37.52.png>)
+
+![alt text](<Captura de Tela 2025-12-18 às 11.37.56.png>)
